@@ -1,5 +1,5 @@
 // Vanilla JS Liquid Glass Effect - Paste into browser console
-// Created by Shu Ding (https://github.com/shuding/liquid-glass) in 2025.
+// Created by Harsh S (https://github.com/HarshTCP1111) in 2025.
 
 (function() {
   'use strict';
